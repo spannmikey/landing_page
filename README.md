@@ -1,2 +1,2 @@
 # landing_page
-Created web page from Odin project landing page template. Decided to do Astronauts!🧑‍🚀
+Created a web page to pracice my css skills
